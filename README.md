@@ -1,2 +1,15 @@
+
+
+
+
+auto flash fastboot
+
+
+
+
+
+
+
+
 # muhaimin
-Yosh Muhaimin Write
+
